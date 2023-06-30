@@ -2,10 +2,10 @@
   "name": "goit-js-collective-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dmytro-Lys.github.io/goit-js-collective-project",
+  "homepage": "https://GoitStudentsWorks.github.io/js_81_Dmytro-Lys",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-collective-project/"
+    "build": "parcel build src/*.html --public-url /js_81_Dmytro-Lys/"
   },
   "repository": {
     "type": "git",
